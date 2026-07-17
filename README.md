@@ -111,10 +111,3 @@ earnings-call-sentiment-analysis/
 - The project demonstrates the integration of NLP techniques with financial analysis to study market behavior.
 
 ---
-
-## Future Improvements
-
-- Expand the dataset to include more companies.
-- Analyze longer-term stock reactions.
-- Compare multiple financial sentiment models.
-- Develop predictive machine learning models.
